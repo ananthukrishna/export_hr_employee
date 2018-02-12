@@ -32,6 +32,7 @@
     'depends': [
         'base',
         'hr',
+        'report_xlsx',
     ],
     'data': [
         'wizard/hr_employee_excel_report.xml',
