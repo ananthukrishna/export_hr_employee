@@ -25,7 +25,7 @@
     'summary': 'HR Employee Excel export',
     'version': '1.0',
     'description': """HR Employee Excel export""",
-    'author': 'Ananthu Krishna',
+    'author': 'CodersFort',
     'website': 'http://www.codersfort.com',
     'license': 'AGPL-3',
     'category': 'HR',
