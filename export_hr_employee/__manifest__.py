@@ -29,6 +29,7 @@
     'website': 'http://www.codersfort.com',
     'license': 'AGPL-3',
     'category': 'HR',
+    "images": ["images/export_hr_employee.png"],
     'depends': [
         'base',
         'hr',
